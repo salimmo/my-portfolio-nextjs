@@ -18,9 +18,7 @@ export default function Home() {
         <title>Salim Portfolio Built with Nextjs</title>
         <meta
           name="description"
-          content="Explore Salim Mo's Next.js developer portfolio and 
-        discover the latest webapp projects and software engineering articles. 
-        Showcase your skills as a full-stack developer and software engineer."
+          content="Entdecke Salim Mo's Next.js-Entwicklerportfolio und entdecke die neuesten Webanwendungen und Software-Engineering-Artikel."
         />
       </Head>
 
