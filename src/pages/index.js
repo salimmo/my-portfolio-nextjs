@@ -15,6 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
+    <script defer src="https://umami.salimdev.de/script.js" data-website-id="37755bb6-5de0-4cd3-a537-e85b3b49dc89"></script>
         <title>Salim Portfolio Built with Nextjs</title>
         <meta
           name="description"
