@@ -8,6 +8,7 @@ import Link from "next/link";
 import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg";
 import profilePic from "../../public/images/profile/developer-pic-1.png";
 import TransitionEffect from "@/components/TransitionEffect";
+import LogoCloud from "@/components/LogoCloud";
 
 
 export default function Home() {
@@ -77,6 +78,8 @@ export default function Home() {
             </div>
           </div>
         </Layout>
+
+        <LogoCloud />
 
         <HireMe />
         <div className="absolute right-8 bottom-8 inline-block w-24 md:hidden">
