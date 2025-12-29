@@ -79,8 +79,6 @@ export default function Home() {
           </div>
         </Layout>
 
-        <LogoCloud />
-
         <HireMe />
         <div className="absolute right-8 bottom-8 inline-block w-24 md:hidden">
           <Image
@@ -90,6 +88,8 @@ export default function Home() {
           />
         </div>
       </article>
+
+      <LogoCloud />
     </>
   );
 }
